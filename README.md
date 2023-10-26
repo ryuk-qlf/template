@@ -1,4 +1,4 @@
-##Présentation
+## Présentation
 
 ```markdown
 Un projet simple de page web en HTML, CSS et JavaScript pour présenter des informations sur des personnes à partir d'un fichier de données.
