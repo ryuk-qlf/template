@@ -48,8 +48,4 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés :
 
 Les contributions sont les bienvenues ! Si vous souhaitez améliorer ce projet, veuillez créer une demande d'extraction (pull request) pour discuter de vos idées et modifications.
 
-## Licence
-
-Ce projet est sous licence MIT. Consultez le fichier `LICENSE` pour plus de détails.
-
 ---
